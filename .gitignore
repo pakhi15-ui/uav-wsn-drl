@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+logs/
+uav_project/
+.DS_Store
+models/trained_uav_agent.zip
